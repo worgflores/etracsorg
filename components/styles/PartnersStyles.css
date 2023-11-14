@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .partners-container {
+    @apply 2xl:pt-32 w-full h-screen md:h-full sm:h-full xs:h-full pt-16 2xl:-mt-24 xl:-mt-16 md:pt-32 sm:pt-32 xs:pt-16 xxs:h-full mx-auto px-24 pb-24 text-slate-700;
+}
+
+.partners-container2 {
+    @apply flex flex-col gap-5 justify-center
+}
+
+.partner-title {
+    @apply text-5xl sm:text-3xl xs:text-3xl font-bold text-center
+}
+
+.title-hr {
+    @apply self-center 2xl:w-[60%] xl:w-[45%] lg:w-[55%] md:w-[60%] sm:w-[70%] xs:w-[70%]
+}
+
+.title-desc {
+    @apply text-2xl text-center sm:text-lg xs:text-lg
+}
+
+.partner-container {
+    @apply flex md:flex-col sm:flex-col xs:flex-col gap-5 mt-10 justify-center items-center
+}
+
+.image-container {
+    @apply p-6 border-2 border-slate-100 bg-slate-100 md:hidden sm:hidden xs:hidden xxs:hidden rounded-lg h-56 w-56 hover:scale-110 duration-300 flex items-center justify-center
+}
+
+.image-container2 {
+    @apply 2xl:hidden xl:hidden lg:hidden gap-10 items-center justify-center m-auto
+}
+
+.image2-container2 {
+    @apply p-6 border-2 border-slate-100 bg-slate-100 rounded-lg h-80 w-80 hover:scale-110 duration-300 flex items-center justify-center
+} */

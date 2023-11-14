@@ -1,0 +1,8 @@
+.blur-on-hover {
+    backdrop-filter: blur(8px);
+    transition: backdrop-filter 0.3s ease-in-out;
+  }
+  
+  .blur-on-hover:hover {
+    backdrop-filter: blur(0);
+  }
